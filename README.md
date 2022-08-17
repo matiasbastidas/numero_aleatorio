@@ -1,3 +1,3 @@
 # Número aleatorio
 
-Mostrar un número aleatorio hasta el 100
+Mostrar un número aleatorio/Random hasta el 100
